@@ -52,7 +52,53 @@
               "version": "1.2.0"
             }
           ]
+        },
+        {
+          "name": "Flasher Board - based on Arduino Zero",
+          "architecture": "samd",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/PaulZC/CTA_Flasher/raw/master/flasher-1.0.1.zip",
+          "archiveFileName": "flasher-1.0.1.zip",
+          "checksum": "SHA-256:6DE5611218EC72D1D835C8B17D547616934FF4A24F79DC88DE802954B9028109",
+          "size": "3723720",
+          "boards": [
+            { "name": "Flasher" }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino6-static"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.1.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.0"
+            }
+          ]
         }
+
 	  ],
 	  "tools":[]
 	}
