@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/PaulZC/CTA_Flasher/blob/master/flasher-1.0.0.zip",
+          "url": "https://github.com/PaulZC/CTA_Flasher/raw/master/flasher-1.0.0.zip",
           "archiveFileName": "flasher-1.0.0.zip",
           "checksum": "SHA-256:9E94194FFE198E39D109526C87919BC95F95F0CEF382C45EE87C61F7B9A95009",
           "size": "3723703",
