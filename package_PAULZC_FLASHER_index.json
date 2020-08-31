@@ -150,8 +150,8 @@
           "category": "Contributed",
           "url": "https://github.com/PaulZC/CTA_Flasher/raw/master/flasher-1.0.3.zip",
           "archiveFileName": "flasher-1.0.3.zip",
-          "checksum": "SHA-256:74BF97C7A64CEA96B5BE5593EEEF28205ADBFC23C708A44A0DB30AFBBBFAC339",
-          "size": "3723849",
+          "checksum": "SHA-256:EFD0F3BF050F444D7ECE34389D99A02CDE5B06D54D667840A8936CCE9E7E6153",
+          "size": "3723851",
           "boards": [
             { "name": "Flasher" }
           ],
